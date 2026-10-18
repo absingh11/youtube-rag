@@ -48,6 +48,7 @@ youtube-rag/
 ## Quick start
 
 ```bash
+
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env                                   # then add your OPENAI_API_KEY
