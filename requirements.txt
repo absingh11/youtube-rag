@@ -1,0 +1,10 @@
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-openai>=0.2
+faiss-cpu>=1.8
+youtube-transcript-api>=1.0
+python-dotenv>=1.0
+fastapi>=0.110
+uvicorn[standard]>=0.29
+streamlit>=1.36
+pytest>=8.0
