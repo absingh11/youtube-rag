@@ -2,6 +2,10 @@
 
 Paste a YouTube link and ask questions about the video. The answers come **only from the video's transcript** and include **clickable timestamps** that jump to the exact moment in the video where the answer is.
 
+### 🎥 Demo
+  
+https://github.com/user-attachments/assets/c19c762a-12c0-464e-ae49-d003ce3767b9
+
 Built with **LangChain (LCEL) · OpenAI · FAISS · FastAPI · Streamlit**.
 
 ---
